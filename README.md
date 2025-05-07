@@ -1,2 +1,2 @@
-# learn-github
-Github 4 woman - atividade do modulo 3
+# learn-github 📝
+Github 4 woman - atividade do modulo 3 🔖
